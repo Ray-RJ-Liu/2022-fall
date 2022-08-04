@@ -1,0 +1,15 @@
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\bin\Debug\net6.0\_02UnderstandingTypes.exe
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\bin\Debug\net6.0\_02UnderstandingTypes.deps.json
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\bin\Debug\net6.0\_02UnderstandingTypes.runtimeconfig.json
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\bin\Debug\net6.0\_02UnderstandingTypes.dll
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\bin\Debug\net6.0\_02UnderstandingTypes.pdb
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.csproj.AssemblyReference.cache
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.AssemblyInfo.cs
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.dll
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\refint\_02UnderstandingTypes.dll
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.pdb
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\_02UnderstandingTypes.genruntimeconfig.cache
+C:\Users\ruijian\RiderProjects\_02UnderstandingTypes\_02UnderstandingTypes\obj\Debug\net6.0\ref\_02UnderstandingTypes.dll
